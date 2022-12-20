@@ -1,1 +1,3 @@
 # ensemble-learning
+- Here we have used bagging and boosting methods in the Breast cancer dataset
+- we have done the hyperparameter tunning to get the best results...
